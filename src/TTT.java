@@ -1,7 +1,7 @@
 public class TTT {
 
 	/**
-	 * @param args
+	 * @param argssssssssssssssssssssssss
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
