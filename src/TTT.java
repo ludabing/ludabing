@@ -8,7 +8,7 @@ public class TTT {
 		// TODO Auto-generated method stub
 //aaaaaaaaaaaaaaaaaaaaaa
 		//////////
-		System.out.println("======ludabingeeeeeeeeeeeeee=====");
+		System.out.println("===rrrrrrrrrrrrrrrrrr=ludabingeeee=");
 		
 	}
 
